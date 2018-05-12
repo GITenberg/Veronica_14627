@@ -21,6 +21,8 @@ creator:
     wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
 description: Originally bound with Uncle Titus and his visit to the country, ebook
   14710.
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/14627#Veronica
 gutenberg_bookshelf: Children's Literature
 gutenberg_issued: '2005-01-07'
 gutenberg_type: Text
