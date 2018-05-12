@@ -1,0 +1,37 @@
+_repo: Veronica_14627
+_version: 0.1.0
+contributor:
+  translator:
+    agent_name: Brooks, Louise
+    gutenberg_agent_id: '5051'
+    url: http://www.gutenberg.org/2009/agents/5051
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Spyri, Johanna
+    aliases:
+    - Spyri, Johanna Heusser
+    - Heusser, Johanna Louise
+    birthdate: 1827
+    deathdate: 1901
+    gutenberg_agent_id: '2491'
+    url: http://www.gutenberg.org/2009/agents/2491
+    wikipedia: http://en.wikipedia.org/wiki/Johanna_Spyri
+description: Originally bound with Uncle Titus and his visit to the country, ebook
+  14710.
+gutenberg_bookshelf: Children's Literature
+gutenberg_issued: '2005-01-07'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '14627'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PZ'
+- !lcsh 'Conduct of life -- Juvenile fiction'
+title: Veronica
+url: http://www.gutenberg.org/ebooks/14627
